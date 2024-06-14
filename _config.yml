@@ -31,7 +31,7 @@ html:
   use_issues_button: true
   use_repository_button: true
 
-plugins:
+plugins_dir:
   -jekyll-toc
 
 toc:
